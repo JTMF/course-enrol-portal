@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/course-enrol-portal/static/css/main.cfe1d8ad.css",
+    "main.js": "/course-enrol-portal/static/js/main.bae77792.js",
+    "static/media/rp-logo.png": "/course-enrol-portal/static/media/rp-logo.a76b4d6a8e6239425057.png",
+    "index.html": "/course-enrol-portal/index.html",
+    "main.cfe1d8ad.css.map": "/course-enrol-portal/static/css/main.cfe1d8ad.css.map",
+    "main.bae77792.js.map": "/course-enrol-portal/static/js/main.bae77792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe1d8ad.css",
+    "static/js/main.bae77792.js"
+  ]
+}
